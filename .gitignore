@@ -1,0 +1,24 @@
+# Firebase config (chứa thông tin nhạy cảm)
+config/firebase_config.php
+
+# XAMPP
+.htaccess
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
